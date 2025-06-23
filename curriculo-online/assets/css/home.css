@@ -1,0 +1,13 @@
+.container {
+    width: 90%;
+    max-width: 2024px;
+    min-height: 100%;
+    margin: auto;
+}
+
+.container .h-name {
+    width: 100%;
+    min-height: 100px;
+    margin-top: 5%;
+    margin-bottom: 100px;
+}
