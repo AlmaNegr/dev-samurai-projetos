@@ -70,3 +70,27 @@
     text-transform: uppercase;
     color: #000000;
 }
+
+.container .h-experiencia .itens {
+    width: 100%;
+    min-height: 100px;
+}
+
+.container .h-experiencia .itens .item {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    min-height: 220px;
+}
+
+.container .h-experiencia .itens .item .work {
+    min-width: 25%;
+    max-width: 25%;
+    min-height: 100px;
+}
+
+.container .h-experiencia .itens .item .work h2{
+    min-width: 25%;
+    max-width: 25%;
+    min-height: 100px;
+}
